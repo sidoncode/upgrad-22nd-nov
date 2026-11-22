@@ -145,6 +145,13 @@ The model has five tables: `categories`, `products`, `customers`, `orders` and `
 
 ### Create the rest with the Query Tool
 
+
+<br>
+
+<img width="1371" height="729" alt="image" src="https://github.com/user-attachments/assets/f7ad022d-e970-41fe-b488-c0608c6a52a7" />
+
+<br>
+
 Clicking out every table is slow, so for the rest open **Tools > Query Tool** (with the `shop` database selected), paste the script below and press F5.
 
 ```sql
