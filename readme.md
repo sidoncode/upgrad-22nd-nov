@@ -193,11 +193,12 @@ If you already created `customers` in the GUI, delete its `CREATE TABLE` from th
 pgAdmin can draw the entity-relationship diagram from the tables you just created, and also lets you design tables visually.
 
 
-```
+<br>
+
 <img width="1389" height="719" alt="image" src="https://github.com/user-attachments/assets/dff8cdc3-f32a-41d2-a28f-795e2aacf9c9" />
 
+<br>
 
-```
 1. Right-click the **shop** database in the tree and choose **ERD For Database**.
 2. pgAdmin draws all tables with their columns and foreign-key lines. Drag tables to arrange them.
 3. Use the toolbar to **Add table**, **Add/Edit note**, or draw a relationship with **One-to-many** or **Many-to-many** link. Double-click a table to edit columns and keys.
