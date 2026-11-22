@@ -90,6 +90,13 @@ Setting `PGADMIN_CONFIG_SERVER_MODE` to `False` runs pgAdmin in single-user desk
 4. **Connection** tab: Host name/address = `db` (the Compose service name, not `localhost`, because pgAdmin runs in its own container), Port = `5432`, Maintenance database = `shop`, Username = `app`, Password = `app_pw`. Tick **Save password**.
 5. Click **Save**. Expand **shop-local > Databases > shop > Schemas > public**.
 
+<br>
+
+<img width="1192" height="838" alt="image" src="https://github.com/user-attachments/assets/61bc93ec-7d99-47a2-aa6b-41cb80d0afa9" />
+
+<br>
+
+
 If you would rather use a Postgres client on your own machine, connect to `localhost:5432` with the same user, password and database.
 
 ## 2. Data modeling in five ideas
